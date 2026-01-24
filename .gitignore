@@ -1,0 +1,18 @@
+# Ignore everything
+/*
+
+# Allow specific files
+!index.html
+!README.md
+!README_CN.md
+!assets/
+!assets/processed/
+!assets/processed/*.png
+!assets/processed/watermark-config.json
+!assets/processed/watermark-base64.json
+!assets/screenshots/
+!assets/screenshots/*.jpg
+!assets/screenshots/*.png
+
+# Keep .gitignore itself
+!.gitignore
