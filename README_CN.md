@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Cloudflare](https://img.shields.io/badge/Demo-Cloudflare-blue.svg)](https://vibemark.pages.dev/)
 [![Vercel](https://img.shields.io/badge/Demo-Vercel-black.svg)](https://vibe-mark-ivory.vercel.app/)
-[![GitHub Pages](https://img.shields.io/badge/Demo-GitHub_Pages-green.svg)](https://jasonwenthefox.github.io/VibeMark/)
+[![GitHub Pages](https://img.shields.io/badge/Demo-GitHub_Pages-green.svg)](https://jasonwentf.github.io/VibeMark/)
 
 **VibeMark** 是一款轻量级、高性能且注重隐私的 AI 水印工具箱。它支持一键为您的图片添加主流 AI 厂商的专业水印。作为一个单文件 HTML 应用，它完全在浏览器本地运行，确保您的图片数据永不离机。
 
@@ -29,7 +29,7 @@
 您可以直接访问以下链接使用：
 - [Cloudflare 镜像](https://vibemark.pages.dev/)
 - [Vercel 镜像](https://vibe-mark-ivory.vercel.app/)
-- [GitHub Pages](https://jasonwenthefox.github.io/VibeMark/)
+- [GitHub Pages](https://jasonwentf.github.io/VibeMark/)
 
 或者下载本仓库的 `index.html` 后在本地浏览器中直接打开。
 
